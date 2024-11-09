@@ -69,8 +69,3 @@ The WebSocket connection is established between the frontend and backend. The ba
 ## License
 
 This project is licensed under the MIT License.
-
-```
-
-I fixed the indentation, code blocks, and headings to improve clarity and structure.
-```
